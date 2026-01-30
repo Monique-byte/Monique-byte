@@ -3,9 +3,6 @@
   <p><strong>Desenvolvedora Full Stack | Analista de Sistemas </strong></p>
 </div>
 <br/>
-
-## 💻 Tecnologias & Ferramentas
-
 <div align="start">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
