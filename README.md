@@ -75,8 +75,6 @@ Tenho 21 anos, sou formada em Análise e Desenvolvimento de Sistemas pelo IFRS. 
 </div>
 <br/>
 
-![snake animation](https://github.com/Monique-byte/Monique-byte/blob/main/.github/workflows/cobrinha.svg)
-
 <p align="center">
   <em>"A tecnologia é o meio, a solução de problemas é o fim."</em>
 </p>
