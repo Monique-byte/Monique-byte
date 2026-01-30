@@ -1,6 +1,6 @@
 <div align="start">
-  <h1>Olá, eu sou a Monique Trindade 👋</h1>
-  <p><strong>Desenvolvedora Full Stack | Analista de Sistemas | Arquitetura de Software</strong></p>
+  <h1>Olá, eu sou a Monique Trindade </h1>
+  <p><strong>Desenvolvedora Full Stack | Analista de Sistemas </strong></p>
 </div>
 <br/>
 
@@ -12,53 +12,43 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" />
 
 </div>
 </br>
 
 ## Sobre Mim
-Sou uma desenvolvedora com visão analítica focada em criar soluções escaláveis e de alto impacto. Com sólida experiência no ecossistema **JavaScript/TypeScript** e **Python**, atuo na construção de aplicações ponta a ponta, desde a arquitetura do banco de dados até a interface do usuário.
-
-- 🛠️ Foco atual em **Arquitetura de Microserviços** e **Clean Code**.
-- 📈 Experiência em otimização de performance e SEO para aplicações Web.
-- 💡 Transformo requisitos de negócio em código eficiente e sustentável.
+Tenho 21 anos, sou formada em Análise e Desenvolvimento de Sistemas pelo IFRS. Gosto de ler, fazer crochê e codar.
 
 ---
 
 ---
-
-## 🛠️ Domínio 
-
-Aqui está uma visão técnica do meu nível de domínio nas principais tecnologias do mercado:
-
-### ⚡ Core Stack (Especialista)
-| Tecnologia | Nível de Domínio | Status |
-| :--- | :--- | :--- |
-| **React / Next.js** | ![90%](https://img.shields.io/badge/-Especialista-61DAFB?style=flat-square&logo=react&logoColor=black) | ★★★★★ |
-| **Node.js / Express** | ![85%](https://img.shields.io/badge/-Avançado-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ★★★★☆ |
-| **TypeScript** | ![80%](https://img.shields.io/badge/-Avançado-3178C6?style=flat-square&logo=typescript&logoColor=white) | ★★★★☆ |
-| **Python** | ![75%](https://img.shields.io/badge/-Proficiente-3776AB?style=flat-square&logo=python&logoColor=white) | ★★★★☆ |
-</br>
-
 ### Competências
 ##
 
 | Categoria | Tecnologias | Nível |
 | :--- | :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind, Sass | Advanced |
-| **Backend** | Node.js, Python (Django/Flask), NestJS | Proficient |
-| **Mobile** | React Native | Competent |
-| **Database** | PostgreSQL, MongoDB, Redis | Proficient |
-| **DevOps** | Docker, AWS, CI/CD (GitHub Actions) | Competent |
+| **Frontend** | React, Next.js, TypeScript | Advanced |
+| **Backend** | Node.js, Python | Intermediário |
+| **Mobile** | React Native | Iniciante |
+| **Database** | SQL, MongoDB | Avançado |
+| **DevOps** | Docker, CI/CD (GitHub Actions) | Intermediário |
 
 ---
 
-## 📊 Performance no Ecossistema
+## 📊 Performance
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=monique-byte&layout=compact&theme=github_dark&hide_border=true" />
@@ -66,7 +56,6 @@ Aqui está uma visão técnica do meu nível de domínio nas principais tecnolog
 </div>
 
 ---
-
 
 ## 📫 Vamos conversar?
 </br>
