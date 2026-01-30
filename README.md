@@ -3,7 +3,7 @@
 
 ##
 
-### Linguagens e Tecnologias
+### Tecnologias
 
 <img 
     align="left" 
