@@ -35,7 +35,7 @@ Tenho 21 anos, sou formada em Análise e Desenvolvimento de Sistemas pelo IFRS. 
 ### Competências
 ##
 
-| Categoria | Tecnologias | Nível |
+| Categoria | Tecnologias_ | Nível |
 | :--- | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript | Advanced |
 | **Backend** | Node.js, Python | Intermediário |
