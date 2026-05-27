@@ -71,7 +71,3 @@ Tenho 21 anos, sou formada em Análise e Desenvolvimento de Sistemas pelo IFRS. 
   </a> 
 </div>
 <br/>
-
-<p align="center">
-  <em>"A tecnologia é o meio, a solução de problemas é o fim."</em>
-</p>
